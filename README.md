@@ -26,6 +26,6 @@ If you characters other than Polish, do the following:
     2. Find the corresponding font in original `fonts.css` file from repo (there are comments relating each font-weight to original font name)
     3. Overwrite the `src` attribute value
 
-#### Feel free to ask any questions in case of problems.
+###### If you have any questions, please feel free to ask.
 
 
