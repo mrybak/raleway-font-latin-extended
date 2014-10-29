@@ -1,4 +1,6 @@
-raleway-font-latin-extended
+Latin extended for Raleway font
 ===========================
 
-how to get latin-extended for Raleway font + custom @font-face
+Raleway font is available in Google fonts, but unfortunately it lacks latin-ext characters, which makes it unusable for some people.
+CSS included in this repo fixes the problem.
+
